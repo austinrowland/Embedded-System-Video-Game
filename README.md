@@ -3,7 +3,6 @@
 Utilized an Mbed ARM-based microcontroller system with peripherals and C++ to design a video game file system. This project utilizes an accelerometer that user movement in order to move the character around the game, along with a uLCD screen that displays the game.  It also uses buttons as the main source for actions in the game, and different buttons specify different things that will happen in the game. This system also uses an SD Card Reader to load in music .wav files, and uses a speaker to play those same .wav files. Restrictive features in the game help to guide the player along in their quest.
 
 Baseline Video Demo: https://www.youtube.com/watch?v=uaf5ygcpgTQ&t=1s
-Advanced Features Video Demo: https://www.youtube.com/watch?v=jilHu_Cadr4
 
 Baseline Features: 
 1) Accelerometer moves player.
@@ -18,6 +17,8 @@ Baseline Features:
 10) Speech bubbles are used in the quest.
 11) Status bar shows player coordinates. 
 12) Art includes at least one sprite.
+
+Advanced Features Video Demo: https://www.youtube.com/watch?v=jilHu_Cadr4
 
 Chosen Advanced Features:
 1) Start Screen created for the game.
