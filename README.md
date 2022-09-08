@@ -1,5 +1,6 @@
 # ECE 2035 Video Game
  
+## Project Overview
 Utilized an Mbed ARM-based microcontroller system with peripherals and C++ to design a RPG video game file system. This project utilizes an accelerometer that user movement in order to move the character around the game, along with a uLCD screen that displays the game.  It also uses buttons as the main source for actions in the game, and different buttons specify different things that will happen in the game. This system also uses an SD Card Reader to load in music .wav files, and uses a speaker to play those same .wav files. Restrictive features in the game help to guide the player along in their quest.
 
 Baseline Video Demo: https://www.youtube.com/watch?v=uaf5ygcpgTQ&t=1s
@@ -20,7 +21,7 @@ Baseline Video Demo: https://www.youtube.com/watch?v=uaf5ygcpgTQ&t=1s
 
 Advanced Features Video Demo: https://www.youtube.com/watch?v=jilHu_Cadr4
 
-Chosen Advanced Features:
+## Advanced Features:
 1) Start Screen created for the game.
 2) Sound effects are used in the game.
 3) Different modes of movement (visually distinctive from one another).
