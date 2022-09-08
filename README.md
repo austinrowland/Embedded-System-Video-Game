@@ -4,7 +4,7 @@ Utilized an Mbed ARM-based microcontroller system with peripherals and C++ to de
 
 Baseline Video Demo: https://www.youtube.com/watch?v=uaf5ygcpgTQ&t=1s
 
-Baseline Features: 
+## Baseline Features: 
 1) Accelerometer moves player.
 2) Walls block character motion.
 3) Omni-mode button walks through walls and non-walkable items.
